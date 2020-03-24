@@ -8,6 +8,6 @@ In Terminal, type
 
 cd ~/Downloads/killFinder-master
 
-sudo chmod a+x /Users/kmsumu/Downloads/killFinder-master/killFinder.sh
+sudo chmod a+x /Users/kmsumu/Downloads/killFinder-master/killFinder/killFinder.sh
 
 In Finder, right-click "killFinder.sh" file, Open With|Other|All Applications, select Terminal in Applications/Utilities
