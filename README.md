@@ -6,7 +6,7 @@ unzip killFinder-master.zip
 
 In Terminal, type
 
-cd ~/Downloads/killFinder
+cd ~/Downloads/killFinder-master
 
 sudo chmod a+x /Users/kmsumu/Downloads/killFinder.sh
 
